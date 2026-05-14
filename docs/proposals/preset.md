@@ -11,7 +11,7 @@ Presets are scoped to a single provider and cannot be shared across providers.
 
 1. ✅ **One-click deployment** — deploy an Instance with sensible defaults without manually configuring each component.
 2. ✅ **Custom values** — users can override preset values during Instance creation.
-3. ✅ **Bulk update** — when a preset is updated, all Instances using its defaults (without user overrides) are updated automatically.
+3. ✅ **Bulk update** — when a preset is updated, all Instances using its defaults (without user overrides) are updated automatically. (possible separate feature)
 
 ## User Requirements
 
