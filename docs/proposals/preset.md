@@ -19,7 +19,8 @@ Presets are scoped to a single provider and cannot be shared across providers.
 
 - ✅ As a user, I can deploy an Instance with one click on the Everest UI, and the system applies a preset automatically so I don't need to configure each component manually.
 - ❌ As a user, I can deploy an Instance via `kubectl apply` with a minimal manifest.
-- ✅ As a user, I can install OpenEverest with preset already configured. Also customize and create in OpenEverst UI (not initial phase)
+- ✅ As a user, I can install OpenEverest with preset already configured.
+- ✅ As a user, I can customize preset and create new preset in OpenEverst UI (not initial phase)
 - ✅ As a user, I can select which preset to use for one-click deployment when multiple presets exist.
 
 ### 2. Custom Values (not initial phase)
